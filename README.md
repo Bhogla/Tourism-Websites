@@ -76,13 +76,9 @@ Traveler Types:
 •	Group travelers
 
 main page:
- 
-
+![Screenshot 2024-11-07 at 3 45 51 PM](https://github.com/user-attachments/assets/a9aceee2-d376-49dc-b5a1-0b07895b004a)
 Destination Page:
-
-
- 
-
+![Screenshot 2024-11-07 at 3 45 59 PM](https://github.com/user-attachments/assets/b7c6a3c5-afa4-48ed-8b4a-af154cd0b2fc)
 and more pages...
 Built With:
 
